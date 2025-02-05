@@ -1,4 +1,4 @@
-# MyOwnStringLib
+# MyOwnStringLibrary
 
 ## 📌 Overview
 **MyOwnStringLib** is a custom C++ string manipulation library that provides various functions for handling and processing strings efficiently. This library includes functionalities such as case conversion, trimming, word replacement, substring search, splitting strings, and more.
