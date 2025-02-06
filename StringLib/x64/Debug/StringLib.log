@@ -1,7 +1,0 @@
-﻿  MyOwnStringLib.cpp
-C:\Users\mahmu\source\repos\StringLib\StringLib\MyOwnStringLib.cpp(35,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mahmu\source\repos\StringLib\StringLib\MyOwnStringLib.cpp(100,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mahmu\source\repos\StringLib\StringLib\MyOwnStringLib.cpp(144,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-  StringLib.cpp
-  Generating Code...
-  StringLib.vcxproj -> C:\Users\mahmu\source\repos\StringLib\x64\Debug\StringLib.exe
