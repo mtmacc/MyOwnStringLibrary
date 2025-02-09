@@ -35,7 +35,7 @@ int main() {
 ## 📥 Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/MyOwnStringLib.git
+git clone https:https://github.com/mtmacc/MyOwnStringLibrary.git
 ```
 2. Include `MyOwnStringLib.h` in your C++ project.
 3. Compile with:
